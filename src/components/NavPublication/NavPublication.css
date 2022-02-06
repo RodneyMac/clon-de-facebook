@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.container-nav-publication {
+    display: flex;
+    padding: 8px;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    border-bottom: 1px solid #dadde1;
+    cursor: pointer;
+}
+
+.div-nav-header-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 100px;
+    background-color: #D8DCE6;
+}
+
+.div-nav-header-user {
+    margin: 5px 0px 0px;
+    margin-left: 6px;
+}
+
+.nav-header-usuario {
+    margin: 0px 0px 4px;
+    font-size: 16px;
+    color: #444950;
+}
+
+.nav-header-detalles {
+    color: #8D949E;
+    font-size: 12px;
+}
+
+.nav-header-user-icon {
+    width: 16px;
+    height: 15px;
+    color: #616770;
+    vertical-align: middle;
+}

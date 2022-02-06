@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.hp-container {
+    padding: 0px 15px;
+    height: 48px;
+    line-height: 48px;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    border-bottom: 1px solid #dadde1;
+}
+
+.div-contenedor-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-crear-publicacion-izquierda {
+    font-size: 16px;
+    font-weight: bold;
+    color: #3E4042;
+    width: 171.16px;
+    height: 49.38px;
+    cursor: pointer;
+}
+
+.header-arrow-icon {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+
+.div-midle-header {
+    width: 83.7px;
+    /* width: 838.7px; */
+    height: 49.38px;
+}
+
+.div-crear-publicacion-derecha {
+    color: #2D88FF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 0px 0px 0px 12px;
+    cursor: pointer;
+}

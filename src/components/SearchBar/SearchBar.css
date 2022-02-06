@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+}
+
+.div-buscar {
+    background-color: #3b5998;
+    display: flex;
+    /* width: 982px; */
+    justify-content: space-between;
+}
+
+.icono-user {
+    padding: 10px;
+}
+
+.img-icono-user {
+    width: 16px;
+    height: 16px;
+    /* background-color: blue; */
+    color: #ffffff;
+}
+
+.div-input-search {
+    /* display: flex; */
+    /* align-items: center; */
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+.img-search-icon {
+    margin: 0px 10px 0px 0px;
+    color: #c4d2e7;
+}
+
+.input-div-buscar {
+    /* width: 219px; */
+    /* width: 1000px; */
+    /* width: 982px; */
+    height: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: #c4d2e7;
+    text-decoration: none;
+    border-bottom: 1px solid #c4d2e7;
+}
+
+.icono-messenger {
+    padding: 10px;
+}
+
+.buscar {
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.div-nav {
+    display: flex;
+    justify-content: space-between;
+}

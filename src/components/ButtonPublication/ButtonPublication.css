@@ -1,0 +1,16 @@
+.container-button-publication {
+    padding: 8px;
+    margin: 4px 0px 0px;
+}
+
+.btn-publication {
+    background: #4080FF;
+    color: #FFFFFF;
+    padding: 0px 16px;
+    border-radius: 2px;
+    width: 100%;
+    font-size: 14px;
+    height: 36px;
+    border: none;
+    cursor: pointer;
+}

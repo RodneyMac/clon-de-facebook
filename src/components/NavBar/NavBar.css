@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.container-navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    border-bottom: 2px solid #dadde1;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+}
+
+.icono {
+    color: #a0a5aa;
+    width: 20px;
+    height: 20px;
+}
+
+.active {
+    border-bottom: 2px solid #3578e5;
+}
+
+.active svg{
+    color: #3578e5;
+}
+
+.box-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}

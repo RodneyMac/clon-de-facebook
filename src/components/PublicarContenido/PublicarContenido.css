@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.container-publicar-contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    border-bottom: 0.5rem solid #dadde1;
+    /* padding-top: 8px; */
+    /* background-color: green; */
+}
+
+.div-imagen-publicar-contenido {
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    background: #D8DCE6;
+}
+
+.div-input-publicar-contenido {
+    /* width: 100%; */
+    /* width: 253.98px;
+    height: 34px; */
+}
+
+.input-publicar-contenido {
+    color: #444950;
+    margin: 12px 10px;
+    padding: 7px 18px;
+    border: 1px solid #ccd0d5;
+    border-radius: 20px;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    width: 217.98px;
+    /* width: 991px; */
+    /* width: 80%; */
+    /* width: 253.98px; */
+    /* width: 955.98px; */
+    height: 20px;
+}
+
+.div-seleccionar-foto {
+    width: 24px;
+    height: 42px;
+    color: #444950;
+}
+
+.image-picture-publicar-contenido {
+    width: 24px;
+    height: 24px;
+    /* color: #444950; */
+    color: #dadde1;
+}

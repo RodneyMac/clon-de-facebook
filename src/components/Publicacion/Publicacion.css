@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&family=Roboto:wght@100;400;700&display=swap');
+
+.container-publicacion {
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    margin: 0px 0px 12px;
+    width: 100%;
+}
+
+.div-cabecera-publicacion {
+    display: flex;
+    /* background-color: #3578e5; */
+    padding: 10px 10px 0px 10px;
+}
+
+.div-imagen-publicacion {
+    border-radius: 100px;
+    border: 2px solid #3578e5;
+    width: 40px;
+    height: 40px;
+    background-color: #D8DCE6;
+}
+
+.div-datos-publicacion {
+    /* width: 292px; */
+    /* width: 248px; */
+    width: 250px;
+    padding-left: 8px;
+    flex-grow: 1;
+}
+
+.nombre-usuario-publicacion {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.hora-publicacion {
+    font-size: 12px;
+    color: #90949C; 
+}
+
+.world-icon-state {
+    color: #90949c;
+}
+
+.div-ellipsis-publicacion {
+    width: 44px;
+    height: 44px;
+    padding: 10px;
+}
+
+.ellipsis-publicacion {
+    width: 20px;
+    height: 20px;
+}
+
+.cuerpo-publicacion {
+    padding: 0px 10px;
+    font-size: 14px;
+}
+
+.emojis-reaccion-publicacion {
+    display: flex;
+    left: 0px;
+    padding: 10px 10px;
+    /* border-bottom: 1px solid gray; */
+}
+
+.div-heart-icon {
+    border-radius: 100px;
+    width: 16px;
+    height: 16px;
+    background-color: red;
+    color: whitesmoke;
+}
+
+.heart-icon {
+    width: 12px;
+    margin-left: 2px;
+}
+
+.div-hand-icon {
+    border-radius: 100px;
+    width: 16px;
+    height: 16px;
+    background-color: rgb(51, 116, 255);
+    color: whitesmoke;
+}
+
+.hand-icon {
+    width: 10px;
+    margin-left: 3px;
+}
+
+.number-reaction {
+    margin-left: 5px;
+    color: #616760;
+    font-size: 14px;
+}
+
+.icon-line-action {
+    /* border-bottom: 1px solid rgb(228, 225, 225); */
+    border-bottom: 1px solid #dadde1;
+    margin-bottom: 10px;
+}
+
+.div-pie-publicacion {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pie-publicacion {
+    margin: -6px -8px -8px -8px;
+    padding: 6px 8px 8px 8px;
+    color: #616760;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.icono-pie-publicacion {
+    width: 20px;
+    height: 20px;
+    margin: 0px 4px 1px 0px;
+    vertical-align: middle;
+}
+
+.line-footer-publication {
+    border-bottom: 0.5rem solid #dadde1;
+    padding-top: 8px;
+}
