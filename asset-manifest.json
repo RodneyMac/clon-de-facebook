@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//RodneyMac.github.io/Facebook-Clone/static/css/main.19d27d5d.css",
-    "main.js": "/http//RodneyMac.github.io/Facebook-Clone/static/js/main.2db6d053.js",
-    "static/js/787.060b83f1.chunk.js": "/http//RodneyMac.github.io/Facebook-Clone/static/js/787.060b83f1.chunk.js",
-    "index.html": "/http//RodneyMac.github.io/Facebook-Clone/index.html",
-    "main.19d27d5d.css.map": "/http//RodneyMac.github.io/Facebook-Clone/static/css/main.19d27d5d.css.map",
-    "main.2db6d053.js.map": "/http//RodneyMac.github.io/Facebook-Clone/static/js/main.2db6d053.js.map",
-    "787.060b83f1.chunk.js.map": "/http//RodneyMac.github.io/Facebook-Clone/static/js/787.060b83f1.chunk.js.map"
+    "main.css": "/http//RodneyMac.github.io/clon-de-facebook/static/css/main.19d27d5d.css",
+    "main.js": "/http//RodneyMac.github.io/clon-de-facebook/static/js/main.23c6839c.js",
+    "static/js/787.060b83f1.chunk.js": "/http//RodneyMac.github.io/clon-de-facebook/static/js/787.060b83f1.chunk.js",
+    "index.html": "/http//RodneyMac.github.io/clon-de-facebook/index.html",
+    "main.19d27d5d.css.map": "/http//RodneyMac.github.io/clon-de-facebook/static/css/main.19d27d5d.css.map",
+    "main.23c6839c.js.map": "/http//RodneyMac.github.io/clon-de-facebook/static/js/main.23c6839c.js.map",
+    "787.060b83f1.chunk.js.map": "/http//RodneyMac.github.io/clon-de-facebook/static/js/787.060b83f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d27d5d.css",
-    "static/js/main.2db6d053.js"
+    "static/js/main.23c6839c.js"
   ]
 }
