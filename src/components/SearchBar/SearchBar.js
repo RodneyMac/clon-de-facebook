@@ -1,7 +1,6 @@
 import React from 'react';
 import './SearchBar.css';
 import {FaRegUserCircle} from 'react-icons/fa';
-// import {FaUserCircle} from 'react-icons/fa';
 import {BiSearchAlt2} from 'react-icons/bi';
 import {FaFacebookMessenger} from 'react-icons/fa';
 

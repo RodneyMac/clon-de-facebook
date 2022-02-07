@@ -10,7 +10,6 @@
 .div-buscar {
     background-color: #3b5998;
     display: flex;
-    /* width: 982px; */
     justify-content: space-between;
 }
 
@@ -21,13 +20,10 @@
 .img-icono-user {
     width: 16px;
     height: 16px;
-    /* background-color: blue; */
     color: #ffffff;
 }
 
 .div-input-search {
-    /* display: flex; */
-    /* align-items: center; */
     padding-bottom: 5px;
     width: 100%;
 }
@@ -38,9 +34,6 @@
 }
 
 .input-div-buscar {
-    /* width: 219px; */
-    /* width: 1000px; */
-    /* width: 982px; */
     height: 25px;
     display: flex;
     flex-direction: row;

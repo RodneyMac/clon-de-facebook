@@ -8,7 +8,6 @@
 
 .div-cabecera-publicacion {
     display: flex;
-    /* background-color: #3578e5; */
     padding: 10px 10px 0px 10px;
 }
 
@@ -21,8 +20,6 @@
 }
 
 .div-datos-publicacion {
-    /* width: 292px; */
-    /* width: 248px; */
     width: 250px;
     padding-left: 8px;
     flex-grow: 1;
@@ -62,7 +59,6 @@
     display: flex;
     left: 0px;
     padding: 10px 10px;
-    /* border-bottom: 1px solid gray; */
 }
 
 .div-heart-icon {
@@ -98,7 +94,6 @@
 }
 
 .icon-line-action {
-    /* border-bottom: 1px solid rgb(228, 225, 225); */
     border-bottom: 1px solid #dadde1;
     margin-bottom: 10px;
 }
